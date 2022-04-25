@@ -1,1 +1,2 @@
 this is random text 1
+second line of text
